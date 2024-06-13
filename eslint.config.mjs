@@ -10,4 +10,9 @@ export default [
   {
     ignores: ["/.config/*"]
   },
+  {
+    "parserOptions":{
+      "sourceType": "module",
+    }
+  }
 ];
